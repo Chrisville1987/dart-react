@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dart-react/static/css/main.6d6c5730.css",
+    "main.js": "/dart-react/static/js/main.a62ff541.js",
+    "static/js/787.52e64f72.chunk.js": "/dart-react/static/js/787.52e64f72.chunk.js",
+    "index.html": "/dart-react/index.html",
+    "main.6d6c5730.css.map": "/dart-react/static/css/main.6d6c5730.css.map",
+    "main.a62ff541.js.map": "/dart-react/static/js/main.a62ff541.js.map",
+    "787.52e64f72.chunk.js.map": "/dart-react/static/js/787.52e64f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6c5730.css",
+    "static/js/main.a62ff541.js"
+  ]
+}
